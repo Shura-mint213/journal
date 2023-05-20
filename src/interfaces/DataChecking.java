@@ -1,5 +1,6 @@
 package interfaces;
 
+/** Interface for data validation */
 public interface DataChecking {
 
     public Boolean intValidation(String number);

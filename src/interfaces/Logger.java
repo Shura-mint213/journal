@@ -1,5 +1,6 @@
 package interfaces;
 
+/** Interface for logging */
 public interface Logger {
     void logInfo(String info);
 
